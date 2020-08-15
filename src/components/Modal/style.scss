@@ -1,0 +1,22 @@
+.app-modal {
+  padding: 20px 0px;
+}
+
+form > input {
+  margin-bottom: 15px !important;
+}
+
+.showErrorMsg {
+  display: block;
+  color: #e01313;
+}
+
+.hideErrorMsg {
+  display: none;
+  color: #e01313;
+}
+
+.invalidTaskDescription {
+  background-color: #f5f5f5 !important;
+  border: 1px solid #e01313 !important;
+}
